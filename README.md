@@ -8,6 +8,12 @@
 
 ### How to use?
 
+You have to download credential.json from
+
+https://developers.google.com/drive/api/v3/quickstart/nodejs
+
+and move it to the directory of app.js
+
 ```javascript
 npm install
 
